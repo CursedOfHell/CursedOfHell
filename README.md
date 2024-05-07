@@ -1,3 +1,12 @@
+<style>
+
+.bigger-font {font-size: 18px;}
+
+</style>
+
+
+
+
 👋 Sup, I’m CursedOfHell, typical programmer and 3d animator from Russia.
 He/Him
 
@@ -17,4 +26,4 @@ He/Him
 
 
 # HOW TO REACH ME
-[![My Skills](https://skillicons.dev/icons?i=discord&perline=1)](http://discordapp.com/users/578143877110956032) <h2>@cursedofhell<h2/>
+[![My Skills](https://skillicons.dev/icons?i=discord&perline=1)](http://discordapp.com/users/578143877110956032) <p class="bigger-font">@cursedofhell</p>
