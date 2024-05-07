@@ -10,7 +10,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py&perline=1)](https://www.python.org/) (Started learning)
 
-- OSINT (Enthusiast)
+[![My Skills](https://skillicons.dev/icons?i=github&perline=1)](https://doxbin.org) OSINT (Enthusiast)
   
 [![My Skills](https://skillicons.dev/icons?i=robloxstudio&perline=1)](https://www.roblox.com/) (3D animating)
 
