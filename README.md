@@ -1,6 +1,6 @@
 <style>
 
-.bigger-font {font-size: 18px;}
+.bigger-font {font-size: 25px;}
 
 </style>
 
@@ -26,4 +26,4 @@ He/Him
 
 
 # HOW TO REACH ME
-[![My Skills](https://skillicons.dev/icons?i=discord&perline=1)](http://discordapp.com/users/578143877110956032) <p class="bigger-font">@cursedofhell</p>
+[![My Skills](https://skillicons.dev/icons?i=discord&perline=1)](http://discordapp.com/users/578143877110956032)<p class="bigger-font">@cursedofhell</p>
