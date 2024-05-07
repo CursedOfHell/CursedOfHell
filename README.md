@@ -1,4 +1,5 @@
 👋 Sup, I’m CursedOfHell, typical programmer and 3d animator from russia.
+He/Him
 
 ## LANGUAGES WHICH IM SPEAK
 - Russian (main)
