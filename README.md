@@ -5,6 +5,7 @@
 - English
 
 [📜My skills]
+- OSINT (Enthusiast)
 - LUAU (Junior)
 - 3D Animating
 
