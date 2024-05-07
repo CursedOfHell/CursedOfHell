@@ -1,13 +1,15 @@
 👋 Sup, I’m CursedOfHell, typical programmer and 3d animator from russia.
 
-[🗣Languages which im speak]
+##LANGUAGES WHICH IM SPEAK
 - Russian (main)
 - English
+- Ukrainian
 
-[📜My skills]
+##MY SKILLS
+[![My Skills](https://skillicons.dev/icons?i=lua,gcp,azure,react,vue,flutter&perline=1)](https://skillicons.dev)
 - OSINT (Enthusiast)
 - LUAU (Junior)
 - 3D Animating
 
 [📫 How to reach me]
-- |Discord| cursedofhell
+- [![My Skills](https://skillicons.dev/icons?i=discord,flutter&perline=1)](https://skillicons.dev) cursedofhell
