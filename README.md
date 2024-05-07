@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>Sup, I'm CursedOfHell</h1>
-<h2 align="center">Basical programmer and OSINT enthusiast from Russia</h2>
+<h3 align="center">Basical programmer and OSINT enthusiast from Russia</h3>
 
 # LANGUAGES WHICH IM SPEAK
 - Russian (main)
