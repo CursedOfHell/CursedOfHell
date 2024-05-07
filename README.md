@@ -1,4 +1,4 @@
-<h1 align="center">Sup, I'm CursedOfHell</h1> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Sup, I'm CursedOfHell<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1></h1>
 
 He/Him
 
