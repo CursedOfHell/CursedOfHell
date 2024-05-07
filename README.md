@@ -17,4 +17,4 @@ He/Him
 
 
 # HOW TO REACH ME
-[![My Skills](https://skillicons.dev/icons?i=discord&perline=1)](http://discordapp.com/users/578143877110956032) @cursedofhell
+[![My Skills](https://skillicons.dev/icons?i=discord&perline=1)](http://discordapp.com/users/578143877110956032) <h2>@cursedofhell<h2/>
