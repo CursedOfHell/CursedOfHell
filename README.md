@@ -1,4 +1,4 @@
-👋 Sup, I’m CursedOfHell, typical programmer and 3d animator from russia.
+👋 Sup, I’m CursedOfHell, typical programmer and 3d animator from Russia.
 He/Him
 
 ## LANGUAGES WHICH IM SPEAK
