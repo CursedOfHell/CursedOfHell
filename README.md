@@ -6,9 +6,8 @@
 - Ukrainian
 
 ## MY SKILLS
-[![My Skills](https://skillicons.dev/icons?i=lua,gcp,azure,react,vue&perline=1)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=lua&perline=1)](https://skillicons.dev) (Junior)
 - OSINT (Enthusiast)
-- LUAU (Junior)
 - 3D Animating
 
 ## HOW TO REACH ME
