@@ -7,7 +7,9 @@
 - Ukrainian
 
 # MY SKILLS
-[![My Skills](https://skillicons.dev/icons?i=lua,robloxstudio&perline=2)](https://www.roblox.com/) (Medium)
+[![My Skills](https://skillicons.dev/icons?i=lua,robloxstudio&perline=2)](https://www.roblox.com/) (Junior)
+
+[![My Skills](https://skillicons.dev/icons?i=html&perline=1)](https://html.spec.whatwg.org/multipage/) (Junior)
 
 [![My Skills](https://skillicons.dev/icons?i=py&perline=1)](https://www.python.org/) (Started learning)
 
